@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Kısa Bir Mola</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Abov!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          <code>Deneyiminizi iyileştirmek adına kısacık bir mola veriyoruz.</code>
         </p>
       </main>
 
