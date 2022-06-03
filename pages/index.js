@@ -6,14 +6,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Kısa Bir Mola</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>Yasin Eker</title>
       </Head>
 
       <main>
-        <Header title="Abov!" />
+        <Header title="Yapım Aşaması" />
         <p className="description">
-          <code>Deneyiminizi iyileştirmek adına kısacık bir mola veriyoruz.</code>
+          <code>Merhaba, web sitesi şu anda yapım aşamasında. Daha sonra tekrar kontrol edebilirsin.</code>
         </p>
       </main>
 
