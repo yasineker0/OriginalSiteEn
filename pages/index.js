@@ -10,9 +10,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Yapım Aşaması" />
+        <Header title="The construction phase" />
         <p className="description">
-          <code>Merhaba, web sitesi şu anda yapım aşamasında. Daha sonra tekrar kontrol edebilirsin.</code>
+          <code>Hello, the website is currently under construction. You can check again later.</code>
         </p>
       </main>
 
